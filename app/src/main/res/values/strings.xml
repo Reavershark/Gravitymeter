@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gravitymeter</string>
+    <string name="action_settings">Settings</string>
+    <string name="gravity_x">Gravity x:</string>
+    <string name="gravity_y">Gravity y:</string>
+    <string name="gravity_z">Gravity z:</string>
+    <string name="pointerContentDescr">Pointer</string>
+    <string name="center_indicatorContentDescr">center indicator</string>
+</resources>

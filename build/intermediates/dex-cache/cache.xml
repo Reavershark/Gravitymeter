@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8a3851fb81c46fd1ca34603001acdbd0eeabd399\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_b3dec10a8308e46cac8aa56451d09fb3e47c2d00\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_a6bf357c7c8af95fdf605bd31f7d66a5bd7f47aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_066bc7d88181d1396e9f45ce9e760826ef693a28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_edb2e94adb4382862ab9df9973f03e6da8eb77fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="130ed72af898bf5df494eda41388bca5b1b987a5">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be2bf93e00817cd20eca7e2dc41882945798f61b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_c86777b31b12c4b85a601a58cf102405dcda9721\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_b8c34d93b2b376d9a43112af4027e4102986b6a8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_ab5c076c9b07612d95efec87b7e6ef20f06d9c50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_75f2f7f18c7097d4c6b5de3129b0220566facca7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_731b14a0d835f3bb0b7f1f2ce427bf352d0c4a3a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_a594ad7c0562562a05b84c166e9300bc8f699850\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_bb9f509a1102a549b0df879c79989ffdd8f527c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_f0f4fb1b0c8d2d437cd6c4a26b3fc7f4e5059963\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_cfdca2a9104e56e8e1a553ea658e6e03144b9915\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_49a0eaa2e67c657ae86cfa07e66bb270756b28c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f449784c655689f9f8a590eeb78917cc3f929d23">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_21b0acc3051b4809c0f379cc39d6e99eed469d7a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_be9576463306ca1f4c6c2c83f92360a5e9221188\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_bc823ec79fb14b4dd3ce473fb6833dc265158f77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ad76c22e11b65c7927c7feedc445ad87c9f89098\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\jonas\AndroidStudioProjects\Gravitymeter2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_d58a5479b8b8b617884bc985e51da95a700a7725\classes.dex" />
+    </item>
+
+</items>
