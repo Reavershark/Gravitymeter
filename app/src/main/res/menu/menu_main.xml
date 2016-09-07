@@ -8,4 +8,10 @@
         android:orderInCategory="100"
         android:title="@string/menu_action_about"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_action_settings"
+        android:onClick="settingsClicked"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_settings"
+        app:showAsAction="never" />
 </menu>

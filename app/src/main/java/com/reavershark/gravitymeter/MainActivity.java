@@ -1,21 +1,20 @@
 package com.reavershark.gravitymeter;
 
 import android.app.Activity;
-import android.graphics.Point;
+import android.content.Intent;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.os.Handler;
-import android.view.Display;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class MainActivity extends Activity  implements SensorEventListener {
+public class MainActivity extends Activity implements SensorEventListener {
 
     //Vars
     public float[] gravity = {0, 0, 0};
@@ -25,7 +24,7 @@ public class MainActivity extends Activity  implements SensorEventListener {
     public TextView gravxTxtView, GravyTxtView, gravyTxtView, gravzTxtView;
     public ImageView pointerImgView, centerImgView;
     public Handler mHandler;
-    public int mInterval = 50; // in ms
+    public int mInterval = 10; // in ms
 
     //Called on activity start, some methods like onSensorChanged might be called earlier
     @Override
@@ -49,6 +48,12 @@ public class MainActivity extends Activity  implements SensorEventListener {
         SensorManager sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
         Sensor accel = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
         sensorManager.registerListener(this, accel, SensorManager.SENSOR_DELAY_FASTEST);
+
+        if (!getPreferences(MODE_PRIVATE).contains("rawData")){
+            getPreferences(MODE_PRIVATE).edit().putBoolean("rawData", true);
+            getPreferences(MODE_PRIVATE).edit().apply();
+        }
+
     }
 
     @Override
@@ -82,6 +87,16 @@ public class MainActivity extends Activity  implements SensorEventListener {
                 pointerImgView.setX(pointerImgViewCenterX + gravity[0] * 50);
                 pointerImgView.setY(pointerImgViewCenterY + gravity[1] * 50);
 
+                if (getPreferences(MODE_PRIVATE).getBoolean("rawData", true)){
+                    gravxTxtView.setVisibility(View.VISIBLE);
+                    gravyTxtView.setVisibility(View.VISIBLE);
+                    gravzTxtView.setVisibility(View.VISIBLE);
+                } else {
+                    gravxTxtView.setVisibility(View.INVISIBLE);
+                    gravyTxtView.setVisibility(View.INVISIBLE);
+                    gravzTxtView.setVisibility(View.INVISIBLE);
+                }
+
                 mHandler.postDelayed(mRepeater, mInterval);
             }
         }
@@ -112,8 +127,15 @@ public class MainActivity extends Activity  implements SensorEventListener {
                 return super.onOptionsItemSelected(item);
         }
     }
-
+    //start about activity on menu press
     public void aboutClicked(MenuItem item) {
+        Intent intent = new Intent(this, AboutActivity.class);
+        startActivity(intent);
+    }
 
+    //Start settings activity on menu press
+    public void settingsClicked(MenuItem item) {
+        Intent intent = new Intent(this, PreferencesActivity.class);
+        startActivity(intent);
     }
 }
