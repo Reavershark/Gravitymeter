@@ -117,4 +117,3 @@ public class MainActivity extends Activity  implements SensorEventListener {
 
     }
 }
-//Comment test
